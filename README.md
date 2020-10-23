@@ -1,4 +1,14 @@
-# Week-3-IP-Colab-Notebook
+## Title
+
 MTN Cote d'Ivore Data Analysis Workings
-This repo contains my workings on colab Notebook for MTN Cote d'Ivoire. The data provided was for three days. 
-The project involved data cleaning for the data provided for three days and conducting analysis and recommendations
+
+# Author
+
+Terry Migwi
+
+## Project Description
+
+This project involves data cleaning for data of MTN Cote d'Ivoire, Analysis and making Recommendations based on the findings from the Analysis. The data provided was for three days. 
+
+## Installation
+Clone the repository from github and enter the url https://github.com/Data-Cleaning
